@@ -75,6 +75,10 @@
                                     <a href="../page/profilAdmin.php" style="font-weight:600">Profil</a>
                                 </div>
                                 <div class="content-menu">
+                                    <i class="fa fa-book"></i>
+                                    <a href="../page/profilAdmin.php" style="font-weight:600">Edit Library</a>
+                                </div>
+                                <div class="content-menu">
                                     <i class="fa fa-sign-out"></i>
                                     <a href="../process/logoutProcess.php" style="font-weight:600">Logout</a>
                                 </div>
