@@ -67,6 +67,18 @@
                                     <a href="./dashboardUser.php" style="font-weight:600">Dashboard User</a>
                                 </div>
                                 <div class="content-menu">
+                                    <i class="fa fa-book"></i>
+                                    <a href="./listBukuUser.php" style="font-weight:600">List Buku</a>
+                                </div>
+                                <div class="content-menu">
+                                    <i class="fa fa-book"></i>
+                                    <a href="./listPeminjamanBukuUser.php" style="font-weight:600">List Peminjaman</a>
+                                </div>
+                                <div class="content-menu">
+                                    <i class="fa fa-user"></i>
+                                    <a href="./profileUser.php" style="font-weight:600">Profile</a>
+                                </div>
+                                <div class="content-menu">
                                     <i class="fa fa-sign-out"></i>
                                     <a href="../process/logoutProcess.php" style="font-weight:600">Logout</a>
                                 </div>

@@ -67,6 +67,10 @@
                                     <a href="./dashboardAdmin.php" style="font-weight:600">Dashboard Admin</a>
                                 </div>
                                 <div class="content-menu">
+                                    <i class="fa fa-dashboard"></i>
+                                    <a href="./dashboardAdmin.php" style="font-weight:600">List Buku</a>
+                                </div>
+                                <div class="content-menu">
                                     <i class="fa fa-user-circle"></i>
                                     <a href="../page/profilAdmin.php" style="font-weight:600">Profil</a>
                                 </div>
