@@ -61,7 +61,7 @@
                         <div class="side-bar">
                             <h2 class="text-light text-center pt-2">PHP</h2>
                             <hr>
-                            <div class="menu">
+                            <div  class="menu">
                                 <div class="content-menu">
                                     <i class="fa fa-dashboard"></i>
                                     <a href="./dashboardAdmin.php" style="font-weight:600">Dashboard Admin</a>
